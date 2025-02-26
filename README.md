@@ -20,9 +20,9 @@ Ez a projekt egy egyszerű Flappy Bird játék, amely Unity és C# segítségév
 4. Miután betöltődött, futtasd a játékot az Unity editorban.
 
 ## Próbáld ki online felületen
-```bash
+
 https://play.unity.com/en/games/d7747150-ab09-4740-9815-0471628990cd/flappy-bird-by-glwithglr
-```
+
 ## Képernyőképek
 ![image](https://github.com/user-attachments/assets/de0ecce2-bd80-41e5-92ea-6f8d661115db)
 ![image](https://github.com/user-attachments/assets/39081177-7346-4ef8-8e23-180781ba56c2)
