@@ -23,7 +23,8 @@ Ez a projekt egy egyszerű Flappy Bird játék, amely Unity és C# segítségév
 ## Képernyőképek
 ![image](https://github.com/user-attachments/assets/de0ecce2-bd80-41e5-92ea-6f8d661115db)
 ![image](https://github.com/user-attachments/assets/39081177-7346-4ef8-8e23-180781ba56c2)
-![image](https://github.com/user-attachments/assets/e92f995a-fe3d-4599-a876-680c8ea50faf)
+![image](https://github.com/user-attachments/assets/c6dad81e-0ace-4aca-87e3-5e6402ae537b)
+
 
 
 
@@ -35,4 +36,4 @@ Ez a projekt egy egyszerű Flappy Bird játék, amely Unity és C# segítségév
 ## Telepítés lépései
 1. Klónozd a repositoryt:
    ```bash
-   git clone https://github.com/username/flappy-bird.git
+   git clone https://github.com/GaborRoland/FlappyBird_project.git
